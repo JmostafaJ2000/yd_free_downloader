@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [1.4](./1.4)
 - [MahsaNG_16_arm64-v8a](./MahsaNG_16_arm64-v8a)
 - [NexAlloy-2.0.103](./NexAlloy-2.0.103)
 - [ShirOKhorshid-2026.05.14](./ShirOKhorshid-2026.05.14)
